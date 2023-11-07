@@ -61,7 +61,7 @@ ListNode *addTwoNumbers(ListNode *l1, ListNode *l2)
 
 ## 学び
 この問題とは直接関係ないが、
-他の人の回答を見ていて、以下の参考演算子の書き方をいいと思った。
+他の人の回答を見ていて、以下の三項演算子の書き方をいいと思った。
 ```cpp
 int digit1 = (l1 != nullptr) ? l1->val : 0;
 ```
